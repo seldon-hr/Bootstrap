@@ -39,3 +39,6 @@ function dropdown() {
 }
 }
 
+
+'It\'s six o\'clock.';
+"Remember to say \"please\" and \"thank you.\"";
